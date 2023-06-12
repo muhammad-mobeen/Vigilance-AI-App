@@ -3,5 +3,5 @@
 
 
 <div align="center">
-<img src="Vigilance_AI_logo" alt="Vigilance AI"/>
+<img src="Vigilance_AI_logo.png" alt="Vigilance AI"/>
 </div>
